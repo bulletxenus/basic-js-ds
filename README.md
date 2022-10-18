@@ -1,7 +1,7 @@
 # BasicJS. Data structures
 
 #### Prerequisites
-1. Fork this repository: https://github.com/AlreadyBored/basic-js-ds
+1. Fork this repository: https://github.com/bulletxenus/basic-js-ds
 2. Clone your newly created repo: https://github.com/<%your_github_username%>/basic-js-ds to local machine(PC)  
 3. Go to folder `basic-js-ds` using `cd basic-ja-ds` command in terminal 
 4. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install) in terminal
