@@ -1,15 +1,12 @@
 # BasicJS. Data structures
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
-
 #### Prerequisites
-1. Install [Node.js](https://nodejs.org/en/download/)   
-2. Fork this repository: https://github.com/AlreadyBored/basic-js-ds
-3. Clone your newly created repo: https://github.com/<%your_github_username%>/basic-js-ds  
-4. Go to folder `basic-js-ds`  
-5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
-6. Run `npm run test` in command line.
-7. You will see the number of pending, passing and failing tests. 100% of passing tests is equal to max score for the task
+1. Fork this repository: https://github.com/AlreadyBored/basic-js-ds
+2. Clone your newly created repo: https://github.com/<%your_github_username%>/basic-js-ds to local machine(PC)  
+3. Go to folder `basic-js-ds` using `cd basic-ja-ds` command in terminal 
+4. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install) in terminal
+5. Run `npm run test` in terminal.
+6. You will see the number of pending, passing and failing tests. 100% of passing tests is equal to max score for the task
 
 ---
 
@@ -18,22 +15,8 @@
 
 ---
 
-#### Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Go to submit task page
-3. Select your task (BasicJS Data Structures)
-4. Press the submit button and enjoy
-
----
-
-#### Notes
-1. We recommend you to use Node.js of version 16.x.x LTS. If you use any of features, that does not supported by Node.js v16, there may be problems with task submit.
-2. Please, be sure that each of your tests is limited to 30 sec.
-
----
-
 ## General task description
-Your task is to deal with some data structures to solve the subtasks. Subtasks descriptions, as well as instructions on how to run tests and submit solutions are below.
+Your task is to deal with some data structures to solve the subtasks. Subtasks descriptions, as well as instructions on how to run tests are above.
 
 ---
 
@@ -146,14 +129,3 @@ queue.getUnderlyingList() // returns { value: 3, next: null }
 Write your code in `src/queue.js`.
 
 ---
-
-© [AlreadyBored](https://github.com/alreadybored)  
-
-& tasks:
-* Remove from list
-* Stack
-* Queue
-
-are integrated from [Short track 2021 repo](https://github.com/rkhaslarov/rs-school-short-track-2021)
-
-& Thanks [mikhama](https://github.com/mikhama) for assistance!
